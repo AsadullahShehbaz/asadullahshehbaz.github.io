@@ -628,3 +628,17 @@ footer {
         align-items: center;
     }
 }
+
+/* Project Features List */
+.project-features {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.project-features li {
+    color: #bbb;
+    margin-bottom: 0.6rem;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
